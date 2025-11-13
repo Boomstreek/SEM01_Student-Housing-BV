@@ -228,7 +228,11 @@ Als student wil ik een klacht kunnen indienen. Bij voorkeur gaat dit volgens een
 **US-3 - Klachten beheren**
 Als beheerder wil ik de klachten, die de studenten indienen, kunnen inzien, status geven, toewijzen aan de Onderhoudsmanager en erop kunnen reageren naar de student
 
-**US-4 - 
+**US-4 - Huishoudrooster beheren**
+Als beheerder wil ik huishoudtaken kunnen aanmaken en verdelen zodat het schoonmaakrooster eerlijk wordt bijgehouden.
+
+**US-5 - Huishoudtaken afvinken**
+Als student wil ik mijn toegewezen huishoudtaken kunnen afvinken zodat iedereen kan zien wat is gedaan.
 
 ## 8. Risicoanalyse
 
