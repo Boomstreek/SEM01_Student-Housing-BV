@@ -53,7 +53,7 @@ Student Housing B.V. beheert meerdere studentencomplexen met gedeelde voorzienin
 	- Onderhoudsbeer automatiseert 
 		- planning, uitvoering, registratie
 - Starten met een MVP (Minimal viable product)
-- Oude data (CSV-export) is verwerkt in het systeem
+- Oude data (CSV-export) is verwerkt in het systeem, eenmalige import
 - Rollen en rechten
 	- Student
 	- Beheerder
@@ -69,10 +69,6 @@ Student Housing B.V. beheert meerdere studentencomplexen met gedeelde voorzienin
 	- voorraadbeheer
 - Integratie met externe systemen
 - Veranderingsproces bij Student Housing B.V.
-
-### 3.2 Deelvragen
-1. lorum
-2. ipsum
 
 ### 3.2 Doelgroep / Gebruikers
 #### Studenten
@@ -176,49 +172,221 @@ Tot op een dag waren de problemen van vroeger opgelost en woonden de studenten e
 %%welke vragen staan er nog open?%%
 
 ## 4. Planning
-Sprint 0
+Elke twee weken wordt er één volledige sprint doorlopen.
+
+- 10 november — start groepsproject.
+- 24 november — 1e sprint invullen. Starten of Eindigen?
+- 7 december — 3e portfolioreview.
+- 8 december — 2e sprint invullen.
+- 22 december — 3e sprint invullen.
+- 5 januari — 4e sprint invullen.
+- 12 januari — conclusie maken, alles inleveren.
+- 18 januari — 4e portfolioreview.
 
 ## 5. Technologische analyse
-- C#, .NET  
-- SQL Server  
-- GitHub  
-- CSV-import
-- Tekst in markdown?
-- Diagrammen in Mermaid indien mogelijk anders PlantUML
+dit is niet echt een analyse zo, maar we kiezen hiervoor vanwege de volgende redenen:
 
+- C#, .NET  
+	- makkelijke te leren
+- SQL Server  
+	- makkelijk te leren
+- GitHub  
+	- willen we leren
+- CSV-import
+	- data beschikbaar in CSV form
+- Tekst in markdown?
+	- Zodat we tekst kunnen opmaken en delen via GitHub
+- Diagrammen in Mermaid indien mogelijk anders PlantUML
+	- Zo kunnen ze, in dien mermaid, gerenederd worden in GitHub, plantuml niet maar is ook backup
 ## 6. Agile-setup en teamafspraken
 
 ### 6.1 Definition of Done
-Wanneer is iets klaar? 
+_is het echt af?_
+Een onderdeel is “done” wanneer:
+- De functionaliteit volledig werkt volgens de user story.
+- De code getest is en functioneel is.
+- De documentatie is bijgewerkt
+	- dmv documentie geschreven in markdown in Github.
+- De reviewer akkoord is.
+- De functionaliteit demonstrabel is in de eerstvolgende sprintreview.
 
 ### 6.2 Definition of Ready
-Wanneer is iets ready
+_Mag het team eraan beginnen?_
+
+Een item is “ready” wanneer:
+- De user story compleet is (volgens INVEST-principe).
+	- hiervoor wordt INVEST principe gebruikt.
+	- https://www.visual-paradigm.com/scrum/write-user-story-smart-goals/
+- Acceptatiecriteria duidelijk en testbaar zijn.
+- De impact op database, rollen of interface besproken is
+- Dependencies benoemd zijn.
+- Het team inschat dat de story binnen één sprint uitvoerbaar is.
 
 ### 6.3 Tools
-Welke tools gaan we gebruiken?
-- GitHub  
-- Visual Studio Code  
-- SQL Server  
-- Trello
-- Obsidian voor tekst en diagrammen?
-	- Markdown voor tekst
-		- Voordeel, we kunnen de tekst in GIT zetten
-	-  Mermaid voor Diagrammen, voldoet mermaid niet dan PlantUML
-		- Voordeel Mermaid wordt automatisch gegenereerd op basis van de syntax in Git
-		- Syntax is makkelijker aanpasbaar dan graphic tekenen
+De tools die binnen het project gebruikt worden zijn:
 
-### Samenwerkingsafspraken
-%%Document Rik invoegen%%
-GIT Hub als centrale bestanden hub?
-	- documenten in markdown
-	- code gewoon als code
-	- Diagrammen als syntax 
-- Rechten en rollen
+- **GitHub** - versiebeheer en centrale plek voor documenten en code  
+- **Visual Studio Code** - voor ontwikkeling  
+- **SQL Server** - database  
+- **Trello** - sprintplanning, taakbeheer en notities tijdens bijeenkomsten  
+- **Obsidian** - documentatie in markdown en diagrammen  
+- **Mermaid** - primaire tool voor diagrammen (alternatief: PlantUML)
+
+### 6.4 Samenwerkingsafspraken
+
+#### 6.4.1 Communicatie
+- **WhatsApp** wordt gebruikt voor korte vragen, snelle updates en afmeldingen.  
+- **Trello** fungeert als onze gezamenlijke sprintplanning. _Wat bedoel je met noties?_
+- **Microsoft Teams** wordt gebruikt voor de vaste weekly meeting:
+  - Donderdag om **17:30 uur**  
+  - Wanneer iemand niet kan, wordt gezamenlijk een nieuw moment bepaald.  _dit zou ik eruiit halen, andes kan 1 iemand de vergadering afblazen._
+- **GitHub** wordt gebruikt voor het delen van documenten, versiebeheer en code.
+
+#### 6.4.2 Documentatie
+- Notities worden live toegevoegd in **Trello** tijdens bijeenkomsten.
+- Het **voorzitterschap** en **Notulist** tijdens overleg rouleert per sessie.
+	- De notulist noteert alleen de actiepunten.
+- Om de twee weken wordt gezamenlijke documentatie ingevuld volgens het vaste framework:  
+  **Analyse – Adviseer – Design – Realisatie – Manage & Control**  
+ %%wat bedoel je met bovenstaande?%%
+  Dit framework vormt tevens de basis voor sprintdocumentatie en sprintreflectie.
+
+#### 6.4.3 Oplevermomenten
+- Elke sprint duurt **twee weken**.  
+- Aan het einde van elke sprint vindt een **Sprint Review** plaats:
+  - Opgeleverde onderdelen worden besproken.
+  - Feedback wordt verzameld.
+  - De planning voor de volgende sprint wordt vastgesteld.
+
+#### 6.4.4 Besluitvorming
+- Besluiten worden bij voorkeur genomen op basis van consensus  
+- Bij verschil van inzicht wordt gestemd.  
+- Bij een gelijke stemverdeling wordt het besluit bepaald door een muntje op te gooien.  
+- De teamleden die aanwezig zijn tijdens een overleg nemen een besluit namens de volledige groep
+
+#### 6.4.5 Sprintdocumentatie
+Onderstaande structuur wordt elke twee weken aangehouden voor de sprintdocumentatie:
+
+**Analyse**  
+- Korte beschrijving van onderzoek, inzichten, problemen en verbeterpunten.
+
+**Adviseer**  
+- Formuleren van aanbevelingen, keuzes en richting voor de sprint.
+
+**Design**  
+- Uitwerking van ontwerpen, schema’s, prototypes en belangrijkste ontwerpkeuzes.
+
+**Realisatie**  
+- Wat is gebouwd, getest en aangepast.  
+- Eventuele technische uitdagingen of afwijkingen van het plan.
+
+**Manage & Control**  
+- Evaluatie van kwaliteit en voortgang van de sprint.  
+- Documenteren van verbeterpunten, feedback en afspraken voor de volgende sprint.
 
 ## 7. Initiële product backlog (MVP)
-De initiële product backlog bevat de eerste set van user stories en taken die nodig zijn om het minimale werkende product (MVP) op te leveren. De nadruk ligt op het realiseren van de basisfunctionaliteiten: Website als portaal, klachtenregistratie, huishoudrooster, onderhoudsbeheer en eenvoudige rapportage.
 
-### 7.1 User stories (MVP)
+De initiële product backlog bevat de eerste set van user stories en taken die nodig zijn om het minimale werkende product (MVP) op te leveren. De nadruk ligt op de basisfunctionaliteiten: website/portaal, klachtenregistratie, huishoudrooster, onderhoudsbeheer en eenvoudige rapportage.  
+
+
+### 7.1 User Stories (INVEST)
+
+#### US-01a – Toegang tot portaal
+**Als** gebruiker  
+**wil ik** kunnen inloggen op een online portaal  
+**zodat** ik toegang heb tot alle functionaliteiten van het studentenhuis.  
+
+**Acceptatiecriteria:**  
+- Inloggen met rol (Student, Beheerder, Onderhoudsmedewerker, Onderhoudsmanager)  
+- Onjuist wachtwoord geeft foutmelding  
+- Rolgebaseerde toegang: gebruiker ziet alleen wat relevant is  
+
+**MoSCoW:** Must-have  
+
+#### US-01b – Navigatie en dashboard
+**Als** ingelogde gebruiker  
+**wil ik** een overzichtelijk dashboard  
+**zodat** ik snel kan zien welke taken, klachten of meldingen relevant zijn voor mij.  
+
+**Acceptatiecriteria:**  
+- Dashboard toont relevante modules per rol  
+- Klikken op een module opent de juiste pagina  
+- Overzichtelijk en eenvoudig te begrijpen  
+
+**MoSCoW:** Must-have  
+
+#### US-02a – Klacht indienen
+**Als** student  
+**wil ik** een klacht kunnen indienen via een formulier  
+**zodat** ik problemen snel kan melden.  
+
+**Acceptatiecriteria:**  
+- Formulier bevat categorieën van veelvoorkomende problemen  
+- Mogelijkheid tot extra toelichting  
+- Bevestiging na indienen  
+
+**MoSCoW:** Must-have  
+
+
+#### US-02b – Klachtstatus volgen
+**Als** student  
+**wil ik** de status van mijn ingediende klacht kunnen volgen  
+**zodat** ik transparantie heb over de afhandeling.  
+
+**Acceptatiecriteria:**  
+- Status zichtbaar: Open, In behandeling, Afgerond  
+- Toegewezen medewerker zichtbaar  
+- Historie van acties zichtbaar  
+
+**MoSCoW:** Must-have  
+
+#### US-03 – Klachten beheren
+**Als** beheerder  
+**wil ik** klachten kunnen inzien, toewijzen, prioriteren en feedback geven  
+**zodat** klachten efficiënt worden opgevolgd.  
+
+**Acceptatiecriteria:**  
+- Lijst van openstaande klachten beschikbaar  
+- Toewijzen aan onderhoudsmanager of medewerker mogelijk  
+- Prioriteit instellen (Laag, Midden, Hoog)  
+- Reacties toevoegen die student kan zien  
+- Status aanpassen  
+
+**MoSCoW:** Must-have  
+
+#### US-04 – Huishoudrooster beheren
+**Als** beheerder  
+**wil ik** huishoudtaken kunnen aanmaken, verdelen en aanpassen  
+**zodat** het schoonmaakrooster eerlijk wordt bijgehouden.  
+
+**Acceptatiecriteria:**  
+- Taken aanmaken met omschrijving, locatie, frequentie, student toegewezen  
+- Taken verdelen handmatig of automatisch  
+- Aanpassen of verwijderen van taken  
+- Studenten zien hun taken in rooster  
+
+**MoSCoW:** Must-have  
+
+#### US-05 – Huishoudtaken afvinken
+**Als** student  
+**wil ik** mijn toegewezen huishoudtaken kunnen afvinken  
+**zodat** iedereen kan zien wat is gedaan.  
+
+**Acceptatiecriteria:**  
+- Taak markeren als uitgevoerd  
+- Status real-time zichtbaar voor alle gebruikers  
+- Historie beschikbaar voor beheerder  
+
+**MoSCoW:** Must-have  
+
+### 7.3 Toelichting backlog
+- Alle stories zijn **INVEST-compliant**: klein, testbaar, waardevol, inschatbaar en onafhankelijk waar mogelijk.  
+- De **MVP-focus** ligt op de absolute basisfunctionaliteiten, zonder smart-home integraties, communityfunctionaliteiten of externe koppelingen.  
+- Stories kunnen later worden uitgebreid naar **Should-have** en **Could-have** functionaliteiten zoals notificaties, documentupload, uitgebreide dashboards en kalenderweergave.  
+
+
+%%
+oude tekst
 **US-01 - Online portaal**
 Als gebruiker van de applicatie wil ik naar een online omgeving gaan om daar alles met betrekking tot Studentenhuizen te regelen
 
@@ -233,25 +401,17 @@ Als beheerder wil ik huishoudtaken kunnen aanmaken en verdelen zodat het schoonm
 
 **US-5 - Huishoudtaken afvinken**
 Als student wil ik mijn toegewezen huishoudtaken kunnen afvinken zodat iedereen kan zien wat is gedaan.
-
-## 8. Risicoanalyse
-
-
-## 9. Deliverables Sprint 0
-Wat leveren we in sprint 0 op?
-
-## 10. Conclusie
-Het MVP bestaat uit:
-
-%%Wat moet er in dit document nog besloten worden:
-MoSCoW en wat is de MVP
-Tools nalopen en bespreken
-Scope en Deelvragen
-Alle opmerking nalopen
 %%
+
 ## Bronnenlijst
-**APA-bronvermelding (inclusief AI-prompt):**
-OpenAI. (2025, november 11). Prompt gebruikt voor het taalkundig te verbeter en tekst vloeiend te laten lopen [ChatGPT, GPT-5 mini]. Geraadpleegd via https://chat.openai.com
+OpenAI. (2025, november 10–16). Prompt gebruikt voor het taalkundig te verbeteren en tekst vloeiend te laten lopen [ChatGPT, GPT-5 mini]. Geraadpleegd van https://chat.openai.com
 
-OpenAI. (2025, 9 november). Hoe ziet een sprintplanning eruit [Antwoord van ChatGPT]. ChatGPT. https://chat.openai.com/
+OpenAI. (2025, november 9). Hoe ziet een sprintplanning eruit? Geraadpleegd van https://chat.openai.com/
 
+Visual Paradigm. (z.d.). Write user story SMART goals. Geraadpleegd op 16 november 2025, van https://www.visual-paradigm.com/scrum/write-user-story-smart-goals/
+
+https://scrumguides.org/scrum-guide.html#scrum-definition
+
+https://www.visual-paradigm.com/scrum/what-is-definition-of-ready-in-scrum/
+
+Moeten wij nog rollen verdelen volgens de scrum indeling?

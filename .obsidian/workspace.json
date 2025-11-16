@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenten/Agile Basic.md",
+                "file": "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Agile Basic"
+              "title": "Probleemanalyse - Project Studentenhuisvesting"
             }
           }
         ],
@@ -198,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4058d7aa4856eea",
+  "active": "0ba66333a1cf0ccb",
   "lastOpenFiles": [
-    "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
     "Documenten/Agile Basic.md",
+    "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
     "Agile Bais"
   ]
 }
