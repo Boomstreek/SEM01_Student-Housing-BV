@@ -414,4 +414,9 @@ https://scrumguides.org/scrum-guide.html#scrum-definition
 
 https://www.visual-paradigm.com/scrum/what-is-definition-of-ready-in-scrum/
 
+https://www.visual-paradigm.com/scrum/definition-of-done-vs-acceptance-criteria/
+
+
 Moeten wij nog rollen verdelen volgens de scrum indeling?
+
+https://www.visual-paradigm.com/scrum/
