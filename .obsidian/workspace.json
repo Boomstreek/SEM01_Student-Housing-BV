@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenten/Agenda/20251117 Agenda.md",
+                "file": "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "20251117 Agenda"
+              "title": "Probleemanalyse - Project Studentenhuisvesting"
             }
           }
         ],
@@ -212,12 +212,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4058d7aa4856eea",
+  "active": "c769961c12bd964f",
   "lastOpenFiles": [
+    "Documenten/Agile Basic.md",
     "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
     "Documenten/Agenda/20251117 Agenda.md",
     "Documenten/Agenda",
-    "Documenten/Agile Basic.md",
     "Agile Bais"
   ]
 }

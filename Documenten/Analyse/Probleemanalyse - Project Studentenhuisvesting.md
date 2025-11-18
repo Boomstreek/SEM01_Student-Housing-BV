@@ -60,6 +60,9 @@ Student Housing B.V. beheert meerdere studentencomplexen met gedeelde voorzienin
 	- Interne onderhoudsmedewerker
 	- Extern onderhoudspartner
 - Basisrapportage / Basis dashboard voor kosten, gebruik en leefomgeving
+- Website 
+- Modelnetwerk voor studentenhuis
+	- Security heel belangrijk
 
 #### Buiten scope
 - Geavenceeerde smart home integratie en sensortechnolgie
@@ -83,11 +86,14 @@ Onderhoudsmedewerkers, zowel intern als extern, voeren reparaties en onderhoudst
 #### Onderhoudsmanager
 De onderhoudsmanager is verantwoordelijk voor de planning, prioritering en toewijzing van onderhoudstaken. Deze rol vereist inzicht in de totale onderhoudsbehoefte, beschikbare capaciteit, kostenramingen en materiaalgebruik. De onderhoudsmanager moet eenvoudig taken kunnen aanmaken, prioriteiten kunnen wijzigen, voortgang kunnen monitoren en rapportages kunnen genereren.
 
+to do Nog CSV bekijken en eventueel rgebruikers toevoegen
+
 ### 3.3 Beperkingen en voorkeuren
 %%Aanvullen en controleren%%
 - CSV-data van onbekende kwaliteit  
 - Team heeft beperkte ervaring 
 - Hardware (Arduino) alleen optioneel na MVP  
+- Voorkeur voor veel ICT infrastructuur
 
 
 ### 3.4 Functieanalyse (MoSCoW)
@@ -123,6 +129,10 @@ De onderhoudsmanager is verantwoordelijk voor de planning, prioritering en toewi
   - Status onderhoud  
   - Huishoudtakenoverzicht
 
+- Modelnetwerk voor studenthuis
+	- Lorum
+	- Ipsum
+
 #### Should-have
 - **Communicatiefunctionaliteit**  
   - Reacties op klachten en onderhoudstaken  
@@ -132,7 +142,7 @@ De onderhoudsmanager is verantwoordelijk voor de planning, prioritering en toewi
   - Prioriteitsniveaus  
   - Meerdere medewerkers per taak
 
-- **Verbeterde Data*  
+- **Verbeterde Data**
   - Detectie ontbrekende velden  
   - Validatierapport
 
@@ -160,7 +170,7 @@ De onderhoudsmanager is verantwoordelijk voor de planning, prioritering en toewi
 - Integraties met externe systemen  
 - Organisatorische veranderprocessen binnen Student Housing B.V.
 
-
+%%
 ### 3.5 Use Case (Pixar Pitch)
 Er was eens een studentenhuis dat werd beheerd door Student Housing B.V.
 Iedere dag worstelden de studenten met het melden van klachten en het bijhouden van huishoudtaken.
@@ -170,16 +180,17 @@ Tot op een dag waren de problemen van vroeger opgelost en woonden de studenten e
 
 ### 3.6 Openstaande vragen
 %%welke vragen staan er nog open?%%
+%%
 
 ## 4. Planning
 Elke twee weken wordt er één volledige sprint doorlopen.
 
 - 10 november — start groepsproject.
-- 24 november — 1e sprint invullen. Starten of Eindigen?
+- 24 november — 0e sprint opleveren.
 - 7 december — 3e portfolioreview.
-- 8 december — 2e sprint invullen.
-- 22 december — 3e sprint invullen.
-- 5 januari — 4e sprint invullen.
+- 8 december — 1e sprint opleveren.
+- 22 december — 2e sprint opleveren.
+- 5 januari — 3e sprint opleveren.
 - 12 januari — conclusie maken, alles inleveren.
 - 18 januari — 4e portfolioreview.
 
@@ -198,6 +209,7 @@ dit is niet echt een analyse zo, maar we kiezen hiervoor vanwege de volgende red
 	- Zodat we tekst kunnen opmaken en delen via GitHub
 - Diagrammen in Mermaid indien mogelijk anders PlantUML
 	- Zo kunnen ze, in dien mermaid, gerenederd worden in GitHub, plantuml niet maar is ook backup
+	- 
 ## 6. Agile-setup en teamafspraken
 
 ### 6.1 Definition of Done
@@ -225,31 +237,45 @@ Een item is “ready” wanneer:
 ### 6.3 Tools
 De tools die binnen het project gebruikt worden zijn:
 
-- **GitHub** - versiebeheer en centrale plek voor documenten en code  
-- **Visual Studio Code** - voor ontwikkeling  
+- **GitHub** - versiebeheer en centrale plek voor code  
+- **Microsoft teams** Voor documenten opslaan
+- **Microsoft Word** Voor documentformaat
+- **Visual Studio Community 2022** - voor ontwikkeling  
 - **SQL Server** - database  
 - **Trello** - sprintplanning, taakbeheer en notities tijdens bijeenkomsten  
-- **Obsidian** - documentatie in markdown en diagrammen  
-- **Mermaid** - primaire tool voor diagrammen (alternatief: PlantUML)
+- **Mermaid** - primaire tool voor diagrammen (alternatief: PlantUML) Visual paradigm, DrawIO mag ook
+- **GNS-3** - Netwerkarchitectuur 
 
 ### 6.4 Samenwerkingsafspraken
 
+### 6.4.x Scrum rollen
+Elke sprint wordt iemand aangewezen die de rol van Scrum Master op zich neemt, de rest is het Scrum Team. Gezamleijk vertegenwoordigen wij de Product owner
+
 #### 6.4.1 Communicatie
-- **WhatsApp** wordt gebruikt voor korte vragen, snelle updates en afmeldingen.  
-- **Trello** fungeert als onze gezamenlijke sprintplanning. _Wat bedoel je met noties?_
+- **WhatsApp** wordt gebruikt voor korte vragen, snelle updates, aanmoediging en afmeldingen.  
+- **Trello** fungeert als onze gezamenlijke sprintplanning. 
 - **Microsoft Teams** wordt gebruikt voor de vaste weekly meeting:
   - Donderdag om **17:30 uur**  
-  - Wanneer iemand niet kan, wordt gezamenlijk een nieuw moment bepaald.  _dit zou ik eruiit halen, andes kan 1 iemand de vergadering afblazen._
-- **GitHub** wordt gebruikt voor het delen van documenten, versiebeheer en code.
+  - Vastlegging gebeurt via actielijst of iets vergelijkbaars
+- **GitHub** wordt gebruikt voor het delen van code, documentatie en versiecontrole.
+- **Teams** wordt gebruikt voor het delen van documenten
 
 #### 6.4.2 Documentatie
 - Notities worden live toegevoegd in **Trello** tijdens bijeenkomsten.
 - Het **voorzitterschap** en **Notulist** tijdens overleg rouleert per sessie.
-	- De notulist noteert alleen de actiepunten.
+	- De notulist noteert alleen de actiepunten plus datum, tijd, rollen en wie er aanwezig is/was.
 - Om de twee weken wordt gezamenlijke documentatie ingevuld volgens het vaste framework:  
   **Analyse – Adviseer – Design – Realisatie – Manage & Control**  
- %%wat bedoel je met bovenstaande?%%
   Dit framework vormt tevens de basis voor sprintdocumentatie en sprintreflectie.
+- Sprint review 
+	- feedback geven
+		- elkaar
+		- leraren
+	- laten we resultaat zien
+- Sprint retroperspectief
+	- Wat ging er goed?
+	- Wat kan er anders?
+	- Wat nemen we mee?
 
 #### 6.4.3 Oplevermomenten
 - Elke sprint duurt **twee weken**.  
@@ -257,6 +283,7 @@ De tools die binnen het project gebruikt worden zijn:
   - Opgeleverde onderdelen worden besproken.
   - Feedback wordt verzameld.
   - De planning voor de volgende sprint wordt vastgesteld.
+
 
 #### 6.4.4 Besluitvorming
 - Besluiten worden bij voorkeur genomen op basis van consensus  
