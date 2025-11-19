@@ -25,32 +25,16 @@
             "id": "0ba66333a1cf0ccb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
-                "mode": "source",
-                "source": true
+                "file": "Code/Diagrammen/ER-diagram-2025-11-19-15-42-46.png"
               },
-              "icon": "lucide-file",
-              "title": "Probleemanalyse - Project Studentenhuisvesting"
-            }
-          },
-          {
-            "id": "c769961c12bd964f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/Diagrammen/ER-diagram.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ER-diagram"
+              "icon": "lucide-image",
+              "title": "ER-diagram-2025-11-19-15-42-46"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +196,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c769961c12bd964f",
+  "active": "0ba66333a1cf0ccb",
   "lastOpenFiles": [
-    "DocumentenVoorProject/Customer Persona/Onderhoudsmedewerker Biance.md",
+    "Code/Diagrammen/ER-diagram-2025-11-19-15-40-37.png",
+    "Code/Diagrammen/ER-diagram-2025-11-19-15-42-46.png",
     "Code/Diagrammen/ER-diagram.md",
+    "DocumentenVoorProject/Customer Persona/Onderhoudsmedewerker Biance.md",
     "Code/Diagrammen",
     "Generated data for student housing project/Student warnings.docx",
     "Generated data for student housing project/Student Housing Employees.csv",
