@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+                "file": "Code/Diagrammen/ER-diagram.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Probleemanalyse - Project Studentenhuisvesting"
+              "title": "ER-diagram"
             }
           }
         ],
@@ -214,10 +214,23 @@
   },
   "active": "c769961c12bd964f",
   "lastOpenFiles": [
-    "Documenten/Agile Basic.md",
-    "Documenten/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
-    "Documenten/Agenda/20251117 Agenda.md",
-    "Documenten/Agenda",
-    "Agile Bais"
+    "DocumentenVoorProject/Customer Persona/Onderhoudsmedewerker Biance.md",
+    "Code/Diagrammen/ER-diagram.md",
+    "Code/Diagrammen",
+    "Generated data for student housing project/Student warnings.docx",
+    "Generated data for student housing project/Student Housing Employees.csv",
+    "Generated data for student housing project/Room Reviews.docx",
+    "Generated data for student housing project/Properties.csv",
+    "Generated data for student housing project/House-Student records.csv",
+    "Generated data for student housing project/Gas and electricty bills.csv",
+    "Generated data for student housing project",
+    "CSVdata/Generated data for student housing project/Student warnings.docx",
+    "CSVdata/Generated data for student housing project/Student Housing Employees.csv",
+    "DocumentenVoorProject/Customer Persona/Beheerder Pioter.md",
+    "DocumentenVoorProject/Customer Persona/Student Wilco.md",
+    "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
+    "DocumentenVoorProject/Agenda/20251117 Agenda.md",
+    "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+    "DocumentenVoorProject/Aantekeningen/Agile Basic.md"
   ]
 }
