@@ -86,8 +86,6 @@ Onderhoudsmedewerkers, zowel intern als extern, voeren reparaties en onderhoudst
 #### Onderhoudsmanager
 De onderhoudsmanager is verantwoordelijk voor de planning, prioritering en toewijzing van onderhoudstaken. Deze rol vereist inzicht in de totale onderhoudsbehoefte, beschikbare capaciteit, kostenramingen en materiaalgebruik. De onderhoudsmanager moet eenvoudig taken kunnen aanmaken, prioriteiten kunnen wijzigen, voortgang kunnen monitoren en rapportages kunnen genereren.
 
-to do Nog CSV bekijken en eventueel rgebruikers toevoegen
-
 ### 3.3 Beperkingen en voorkeuren
 %%Aanvullen en controleren%%
 - CSV-data van onbekende kwaliteit  
@@ -227,6 +225,7 @@ _Mag het team eraan beginnen?_
 
 Een item is “ready” wanneer:
 - De user story compleet is (volgens INVEST-principe).
+			%%waarom INVEST Principe, leg deze keuze uit%%
 	- hiervoor wordt INVEST principe gebruikt.
 	- https://www.visual-paradigm.com/scrum/write-user-story-smart-goals/
 - Acceptatiecriteria duidelijk en testbaar zijn.
