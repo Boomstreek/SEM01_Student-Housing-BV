@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Diagrammen/ER-Diagram (Crows feet notatie).md",
-                "mode": "source",
+                "file": "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ER-Diagram (Crows feet notatie)"
+              "title": "Missie & Visie"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "efa678be6265eb6e",
   "lastOpenFiles": [
-    "Code/Diagrammen/ER-diagram (Chens notatie).md",
-    "Code/Diagrammen/ER-Diagram (Crows feet notatie).md",
-    "infra/Datamodel.md",
-    "Code/Diagrammen/ER-diagram-2025-11-23-10-14-51.png",
     "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+    "DocumentenVoorProject/Agenda/20251117 Agenda.md",
+    "Code/Diagrammen/ER-Diagram (Crows feet notatie).md",
+    "Code/Diagrammen/ER-diagram-2025-11-23-10-14-51.png",
+    "Code/Diagrammen/ER-diagram (Chens notatie).md",
+    "infra/Datamodel.md",
     "Code/Diagrammen/student housing.vpp",
     "Code/student housing.vpp",
     "Code/Diagrammen/ER-diagram-2025-11-19-15-42-46.png",
@@ -206,7 +207,6 @@
     "DocumentenVoorProject/Customer Persona/Beheerder Pioter.md",
     "DocumentenVoorProject/Customer Persona/Student Wilco.md",
     "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
-    "DocumentenVoorProject/Agenda/20251117 Agenda.md",
     "DocumentenVoorProject/Aantekeningen/Agile Basic.md"
   ]
 }
