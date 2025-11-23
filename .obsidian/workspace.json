@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+                "file": "Code/Diagrammen/ER-diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probleemanalyse - Project Studentenhuisvesting"
+              "title": "ER-diagram"
             }
           }
         ]
@@ -186,9 +186,10 @@
   "active": "0ba66333a1cf0ccb",
   "lastOpenFiles": [
     "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+    "Code/Diagrammen/ER-diagram.md",
+    "Code/Diagrammen/ER-diagram-2025-11-23-10-14-51.png",
     "Code/Diagrammen/student housing.vpp",
     "Code/student housing.vpp",
-    "Code/Diagrammen/ER-diagram.md",
     "Code/Diagrammen/ER-diagram-2025-11-19-15-42-46.png",
     "Code/Diagrammen/ER-diagram-2025-11-19-15-40-37.png",
     "DocumentenVoorProject/Customer Persona/Onderhoudsmedewerker Biance.md",
