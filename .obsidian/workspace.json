@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
-                "mode": "preview",
-                "source": false
+                "file": "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Missie & Visie"
+              "title": "Probleemanalyse - Project Studentenhuisvesting"
             }
           }
         ]
@@ -185,6 +185,15 @@
   },
   "active": "efa678be6265eb6e",
   "lastOpenFiles": [
+    "DocumentenVoorProject/Analyse/Probleemanalyse.tex",
+    "DocumentenVoorProject/Analyse/Probleemanalyse_Project_Studentenhuisvesting.pdf",
+    "DocumentenVoorProject/Analyse/Unconfirmed 358978.crdownload",
+    "DocumentenVoorProject/Analyse/LaTeX/Probleemanalyse.tex~",
+    "DocumentenVoorProject/Analyse/LaTeX/Probleemanalyse.tex",
+    "DocumentenVoorProject/Analyse/LaTeX",
+    "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.odt",
+    "DocumentenVoorProject/Analyse/lu136063yo8p.tmp",
+    "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
     "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
     "DocumentenVoorProject/Agenda/20251117 Agenda.md",
     "Code/Diagrammen/ER-Diagram (Crows feet notatie).md",
@@ -197,16 +206,8 @@
     "Code/Diagrammen/ER-diagram-2025-11-19-15-40-37.png",
     "DocumentenVoorProject/Customer Persona/Onderhoudsmedewerker Biance.md",
     "Code/Diagrammen",
-    "Generated data for student housing project/Student warnings.docx",
-    "Generated data for student housing project/Student Housing Employees.csv",
-    "Generated data for student housing project/Room Reviews.docx",
-    "Generated data for student housing project/Properties.csv",
-    "Generated data for student housing project/House-Student records.csv",
-    "Generated data for student housing project/Gas and electricty bills.csv",
-    "Generated data for student housing project",
     "DocumentenVoorProject/Customer Persona/Beheerder Pioter.md",
     "DocumentenVoorProject/Customer Persona/Student Wilco.md",
-    "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
     "DocumentenVoorProject/Aantekeningen/Agile Basic.md"
   ]
 }
