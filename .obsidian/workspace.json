@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14438ab5036d5a36",
+        "id": "68b7cb6af9b6b63a",
         "type": "tabs",
         "children": [
           {
-            "id": "efa678be6265eb6e",
+            "id": "30dd3937002d5610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Diagrammen/ER-Diagram (Crows feet notatie).md",
-                "mode": "preview",
+                "file": "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ER-Diagram (Crows feet notatie)"
+              "title": "ER_Diagram (Chens Notatie)"
             }
           }
         ]
@@ -183,30 +183,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "efa678be6265eb6e",
+  "active": "30dd3937002d5610",
   "lastOpenFiles": [
-    "Code/Diagrammen/ER-diagram (Chens notatie).md",
-    "DocumentenVoorProject/Missie&Visie/Missie & Visie.md",
-    "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
-    "DocumentenVoorProject/Analyse/Probleemanalyse.tex",
-    "DocumentenVoorProject/Analyse/Probleemanalyse_Project_Studentenhuisvesting.pdf",
-    "DocumentenVoorProject/Analyse/Unconfirmed 358978.crdownload",
-    "DocumentenVoorProject/Analyse/LaTeX/Probleemanalyse.tex~",
-    "DocumentenVoorProject/Analyse/LaTeX/Probleemanalyse.tex",
-    "DocumentenVoorProject/Analyse/LaTeX",
-    "DocumentenVoorProject/Analyse/Probleemanalyse - Project Studentenhuisvesting.odt",
-    "DocumentenVoorProject/Analyse/lu136063yo8p.tmp",
-    "DocumentenVoorProject/Agenda/20251117 Agenda.md",
-    "Code/Diagrammen/ER-Diagram (Crows feet notatie).md",
-    "Code/Diagrammen/ER-diagram-2025-11-23-10-14-51.png",
-    "infra/Datamodel.md",
-    "Code/Diagrammen/student housing.vpp",
-    "Code/student housing.vpp",
-    "Code/Diagrammen/ER-diagram-2025-11-19-15-42-46.png",
-    "Code/Diagrammen/ER-diagram-2025-11-19-15-40-37.png",
-    "DocumentenVoorProject/Customer Persona/Onderhoudsmedewerker Biance.md",
-    "DocumentenVoorProject/Customer Persona/Beheerder Pioter.md",
-    "DocumentenVoorProject/Customer Persona/Student Wilco.md",
-    "DocumentenVoorProject/Aantekeningen/Agile Basic.md"
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Crows Feet Notatie).md",
+    "02 IT Projectflow/04 Informatie_Architectuur/Conceptueel ER-diagram.pdf",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
+    "06 Map Bram/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+    "02 IT Projectflow/04 Informatie_Architectuur/Conceptueel ER-diagram",
+    "02 IT Projectflow/04 Informatie_Architectuur/Unconfirmed 107376.crdownload",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-35-39.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-31-27.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-31-21.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie) 1-2025-11-28-14-27-38.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-30-50.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie) 1-2025-11-28-14-26-09.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie) 1 1.md",
+    "06 Map Bram/Oud/ER-diagram (Chens notatie) Bram.md",
+    "06 Map Bram/Oud/ER-Diagram (Crows feet notatie) Bram.md",
+    "02 IT Projectflow/04 Informatie_Architectuur/Untitled.md",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-42-36.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-42-28.png",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-38-28.png",
+    "06 Map Bram/Oud/ER-diagram-2025-11-23-10-14-51.png",
+    "06 Map Bram/Diagrammen/ER-diagram (Chens notatie) Rik.md",
+    "02 IT Projectflow/IT-Projectflow.md",
+    "02 IT Projectflow/01 Strategie/Missie & Visie.md",
+    "06 Map Bram/Analyse/Probleemanalyse_Project_Studentenhuisvesting.pdf",
+    "README.md",
+    "07 infra/Datamodel.md",
+    "02 IT Projectflow/08 Exploitatie",
+    "02 IT Projectflow/07 Ontwikkeling",
+    "02 IT Projectflow/06 Technische_Architectuur",
+    "02 IT Projectflow/05 Applicatie_Architectuur",
+    "02 IT Projectflow/04 Informatie_Architectuur",
+    "02 IT Projectflow/03 Business_Architectuur",
+    "ARchimate.md",
+    "02 IT Projectflow.md",
+    "Chen notatie.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Student Wilco.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmedewerker Biance.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Pioter.md",
+    "06 Map Bram/Aantekeningen/Agile Basic.md",
+    "06 Map Bram/Agenda/20251117 Agenda.md"
   ]
 }
