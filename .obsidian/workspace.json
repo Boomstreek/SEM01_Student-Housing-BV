@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
+                "file": "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ER_Diagram (Chens Notatie)"
+              "title": "Beheerder Eva"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "30dd3937002d5610",
   "lastOpenFiles": [
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmedewerker Lars.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Student Wilco.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmanager Lieke.md",
+    "06 Map Bram/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Crows Feet Notatie).md",
     "02 IT Projectflow/04 Informatie_Architectuur/Conceptueel ER-diagram.pdf",
-    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
-    "06 Map Bram/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
     "02 IT Projectflow/04 Informatie_Architectuur/Conceptueel ER-diagram",
     "02 IT Projectflow/04 Informatie_Architectuur/Unconfirmed 107376.crdownload",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-35-39.png",
@@ -220,9 +224,6 @@
     "ARchimate.md",
     "02 IT Projectflow.md",
     "Chen notatie.md",
-    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Student Wilco.md",
-    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmedewerker Biance.md",
-    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Pioter.md",
     "06 Map Bram/Aantekeningen/Agile Basic.md",
     "06 Map Bram/Agenda/20251117 Agenda.md"
   ]
