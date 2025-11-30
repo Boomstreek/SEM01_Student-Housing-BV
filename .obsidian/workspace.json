@@ -11,14 +11,10 @@
             "id": "30dd3937002d5610",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 IT Projectflow/01 Strategie/Missie & Visie.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Missie & Visie"
+              "title": "New tab"
             }
           }
         ]
@@ -180,28 +176,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "c4058d7aa4856eea",
   "lastOpenFiles": [
+    "02 IT Projectflow/08 Exploitatie/delete me if file in folder exist.md",
+    "00 Code/README 00 CODE.md",
+    "02 IT Projectflow/07 Ontwikkeling/delete me if file in folder exist.md",
+    "02 IT Projectflow/06 Technische_Architectuur/delete me if file in folder exist.md",
+    "02 IT Projectflow/05 Applicatie_Architectuur/delete me if file in folder exist.md",
+    "02 IT Projectflow/02 Governance/delete me if file in folder exist.md",
+    "02 IT Projectflow/IT-Projectflow.md",
+    "02 IT Projectflow/IT-Projectflow.pdf",
+    "02 IT Projectflow/01 Strategie/BMC.md",
     "02 IT Projectflow/01 Strategie/BMC.png",
+    "02 IT Projectflow/01 Strategie/Missie & Visie.md",
+    "02 IT Projectflow/01 Strategie/Missie & Visie.pdf",
     "02 IT Projectflow/BMC.png",
     "02 IT Projectflow/Pasted image.png",
     "06 Map Bram/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
-    "02 IT Projectflow/IT-Projectflow.pdf",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Student Wilco.pdf",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmedewerker Lars.pdf",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmanager Sophie.pdf",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.pdf",
-    "02 IT Projectflow/01 Strategie/Missie & Visie.pdf",
     "07 infra/ER-Diagram.png",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.md",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmanager Sophie.md",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmedewerker Lars.md",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Student Wilco.md",
-    "02 IT Projectflow/IT-Projectflow.md",
-    "02 IT Projectflow/01 Strategie/Missie & Visie.md",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Crows Feet Notatie).md",
     "02 IT Projectflow/04 Informatie_Architectuur/Unconfirmed 144361.crdownload",
@@ -220,13 +224,9 @@
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie) 1 1.md",
     "06 Map Bram/Oud/ER-Diagram (Crows feet notatie) Bram.md",
     "02 IT Projectflow/04 Informatie_Architectuur/Untitled.md",
-    "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-42-36.png",
     "README.md",
     "07 infra/Datamodel.md",
     "ARchimate.md",
-    "02 IT Projectflow.md",
-    "Chen notatie.md",
-    "06 Map Bram/Aantekeningen/Agile Basic.md",
-    "06 Map Bram/Agenda/20251117 Agenda.md"
+    "02 IT Projectflow.md"
   ]
 }
