@@ -1,0 +1,37 @@
+```mermaid 
+classDiagram
+    class House {
+        int HouseID
+        string Street
+        string HouseNumber
+        string City
+        string PostalCode
+    }
+
+    class Room {
+        int RoomID
+        string RoomNumber
+        int HouseID
+    }
+
+    class Student {
+        int StudentID
+        string StudentName
+        string StudentEmail
+        string StudentPhone
+        int RoomID
+    }
+
+    class Complaint {
+        int ComplaintID
+        int StudentID
+        string Description
+        string DateCreated
+        string Status
+    }
+
+    House "1" --> "many" Room : has
+    Room "1" --> "many" Student : houses
+    Student "1" --> "many" Complaint : files
+
+```
