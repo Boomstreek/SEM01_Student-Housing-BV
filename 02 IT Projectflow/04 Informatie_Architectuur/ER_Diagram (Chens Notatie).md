@@ -3,7 +3,7 @@
 ' ===========================
 ' METADATA
 ' ===========================
-' Version: 2.0
+' Version: 2.1
 ' Date: 28-11-2025
 ' Depends on: 
 ' Author: Bram Wieringa
@@ -23,9 +23,31 @@ FontColor #000000
 BackGroundColor #90ee90
 FontColor #000000
 }
+.black {
+BackGroundColor #000000
+FontColor #FFFFFF
+}
+.grey {
+BackGroundColor #A9A9A9
+FontColor #000000
+}
 </style>
 
 ' Entities
+' ===========================
+' METADATA
+' ===========================
+entity Metadata <<black>> {
+	Title_Conceptual_ERD_Chens <<grey>> {
+	}
+	Version_2_1 <<grey>> {
+	}
+	Date_28_11_2025 <<grey>> {
+	}
+	Author_Bram_Wieringa <<grey>> {
+	}
+}
+' ===========================
 
 entity Utility <<red>> {
 	year <<blue>> {

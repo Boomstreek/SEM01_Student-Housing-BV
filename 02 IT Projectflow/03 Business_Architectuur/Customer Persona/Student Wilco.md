@@ -1,3 +1,9 @@
+##### **Metadata**
+**Titel:** Student Wilco
+**Versie:** 1.1
+**Auteur:** Bram Wieringa
+**Afhankelijkheid:**  Probleemanalyse - Project Studentenhuisvesting V1.1
+
 ## Student Wilco
 **Naam:** Wilco  
 **Leeftijd:** 20

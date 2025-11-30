@@ -1,35 +1,41 @@
-## Rol 2: Beheerder Eva
+##### **Metadata**
+**Titel:** Beheerder Eva
+**Versie:** 1.1
+**Auteur:** Bram Wieringa
+**Afhankelijkheid:** Probleemanalyse - Project Studentenhuisvesting V1.1
+
+## Beheerder Eva
 **Naam:** Eva  
 **Leeftijd:** 34  
 **Functie:** Gebouwbeheerder bij Student Housing B.V.  
-**Verantwoordelijkheden:** toezicht op dagelijks beheer, aanspreekpunt voor bewoners, coördinatie van schoonmaak en onderhoud
+**Verantwoordelijkheden:** afhandeling van klachten, beheer van huishoud- en schoonmaakroosters, communicatie met studenten, doorzetten van onderhoudsmeldingen
 
 ### Algemeen profiel
-Eva heeft een centrale rol in de dagelijkse gang van zaken binnen het studentenpand. Ze houdt overzicht over de staat van de kamers en gedeelde voorzieningen en fungeert als eerste contactpunt bij problemen. Haar werkzaamheden combineren **administratie, planning en directe communicatie met bewoners en onderhoudspartners**.
+Eva heeft een centrale rol in de dagelijkse gang van zaken binnen het studentenpand. Zij is verantwoordelijk voor het wonen als proces: klachten van studenten, de staat van de gedeelde ruimtes en de organisatie van schoonmaaktaken. Zij heeft geen uitvoerende of plannende rol in technisch onderhoud, maar vormt wel de schakel tussen studenten en de onderhoudsorganisatie.
 
-Eva opereert als verbindende schakel tussen de organisatie en de bewoners. Ze moet vaak snel beslissingen nemen en prioriteiten stellen, omdat het beheer van een gedeeld pand voortdurend in beweging is.
-
+Haar werkzaamheden bestaan uit **registratie, controle, communicatie en coördinatie**. Zij bewaakt dat meldingen correct worden doorgezet en dat studenten tijdig terugkoppeling ontvangen.
 
 ### Dagelijks leven
-Haar dag begint met een overzicht van meldingen en planning van onderhoud en schoonmaak. Tussen het beantwoorden van e-mails en telefoontjes door bezoekt ze kamers en gedeelde ruimtes om de kwaliteit en netheid te controleren. Ze voert gesprekken met bewoners over klachten, meldingen en afspraken.
+De werkdag begint met het controleren van binnengekomen klachten en het huishoudrooster. Nieuwe meldingen worden geregistreerd en beoordeeld op urgentie. Huishoudtaken worden gemonitord: wie wat moet doen, wat is afgerond en waar vertraging ontstaat.
+
+Gedurende de dag onderhoudt Eva contact met studenten over de voortgang van klachten en stuurt zij onderhoudsmeldingen door naar de onderhoudsmanager. Regelmatig worden rondes gelopen door het pand om de staat van de gedeelde ruimtes te controleren.
 
 ### Relatie tot bewoners en pand
-Eva bekijkt het pand zowel vanuit het perspectief van de organisatie als vanuit de bewonerservaring. Ze streeft naar **efficiënt beheer en tevreden bewoners**, maar moet soms moeilijke keuzes maken tussen beschikbare middelen en urgente verzoeken.
+Eva staat dichtbij de bewoners in haar dagelijkse werk. Zij ziet het pand vooral als leefomgeving voor studenten, waarbij wooncomfort en duidelijkheid centraal staan. Hoewel zij oog heeft voor de belangen van de organisatie, ligt haar primaire focus op de gebruikerservaring van de student.
 
-Haar interactie met bewoners is professioneel en oplossingsgericht, waarbij empathie belangrijk is, maar praktische uitvoering altijd voorrang heeft.
+De relatie met bewoners is intensief, omdat zij het eerste aanspreekpunt is bij vrijwel alle dagelijkse problemen.
 
 ### Communicatiestijl
-Direct en helder. In schriftelijke communicatie wordt concrete informatie gedeeld, vaak met deadlines of stappenplan. In persoonlijke gesprekken is ze vriendelijk maar zakelijk. Ze bewaakt toon en duidelijkheid, omdat misverstanden snel tot frustratie kunnen leiden.
-
+Helder, rustig en praktisch. Schriftelijke communicatie is informatief en gericht op voortgang en afspraken. In persoonlijk contact is zij benaderbaar en oplossingsgericht, met nadruk op duidelijke verwachtingen.
 
 ### Gedrag en houding
-Eva werkt doelgericht en gestructureerd. Ze heeft oog voor details en is gewend om meerdere processen tegelijkertijd te coördineren. Ze balanceert tussen de belangen van de organisatie en de wensen van de bewoners, waarbij ze altijd streeft naar een werkbare oplossing.
+Eva werkt gestructureerd en nauwkeurig. Zij houdt overzicht, bewaakt afspraken en signaleert knelpunten tijdig. Zij opereert als stabiele factor binnen een continu veranderende woonomgeving.
 
 ### Waarden en drijfveren
-- Efficiëntie en overzicht
-- Tevredenheid van bewoners
-- Betrouwbare uitvoering/afhandeling van klachten en schoonmaak
-- Professionele communicatie en afhandeling van meldingen
+- Duidelijkheid voor studenten
+- Continuïteit in het dagelijks functioneren van het pand
+- Betrouwbare klacht- en schoonmaakafhandeling
+- Overzicht en voorspelbaarheid
 
 ### Karakterisering
-Eva is een gestructureerde en oplossingsgerichte beheerder, die het overzicht behoudt in een complexe woonomgeving en zorgt dat dagelijkse processen soepel verlopen.
+Eva is een gestructureerde beheerder die zich richt op wooncomfort, communicatie en dagelijkse continuïteit binnen het studentenpand.

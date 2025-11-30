@@ -1,4 +1,10 @@
-**Missie:**  
+##### **Metadata**
+**Titel:** Missie & Visie
+**Versie:** 1.1
+**Auteur:** Bram Wieringa
+**Afhankelijkheid:** -
+
+## Missie & Visie
 Student Housing B.V. biedt betrouwbare, betaalbare en efficiënte huisvesting voor studenten wereldwijd, ondersteund door een gestroomlijnd IT-systeem dat zorgt voor minimale kosten en maximale operationele effectiviteit.
 
 **Visie:**  

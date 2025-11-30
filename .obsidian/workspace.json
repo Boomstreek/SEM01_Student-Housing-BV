@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.md",
+                "file": "06 Map Bram/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beheerder Eva"
+              "title": "Probleemanalyse - Project Studentenhuisvesting"
             }
           }
         ]
@@ -185,14 +185,20 @@
   },
   "active": "30dd3937002d5610",
   "lastOpenFiles": [
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmanager Sophie.md",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmedewerker Lars.md",
     "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Student Wilco.md",
-    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Beheerder Eva.md",
-    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmanager Lieke.md",
     "06 Map Bram/Analyse/Probleemanalyse - Project Studentenhuisvesting.md",
+    "02 IT Projectflow/IT-Projectflow.md",
+    "02 IT Projectflow/01 Strategie/Missie & Visie.md",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie).md",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Crows Feet Notatie).md",
+    "02 IT Projectflow/04 Informatie_Architectuur/Unconfirmed 144361.crdownload",
     "02 IT Projectflow/04 Informatie_Architectuur/Conceptueel ER-diagram.pdf",
+    "06 Map Bram/Oud/ER-diagram (Chens notatie) Bram.md",
+    "06 Map Bram/Diagrammen/ER-diagram (Chens notatie) Rik.md",
+    "02 IT Projectflow/03 Business_Architectuur/Customer Persona/Onderhoudsmanager Lieke.md",
     "02 IT Projectflow/04 Informatie_Architectuur/Conceptueel ER-diagram",
     "02 IT Projectflow/04 Informatie_Architectuur/Unconfirmed 107376.crdownload",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-35-39.png",
@@ -202,16 +208,12 @@
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-14-30-50.png",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie) 1-2025-11-28-14-26-09.png",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie) 1 1.md",
-    "06 Map Bram/Oud/ER-diagram (Chens notatie) Bram.md",
     "06 Map Bram/Oud/ER-Diagram (Crows feet notatie) Bram.md",
     "02 IT Projectflow/04 Informatie_Architectuur/Untitled.md",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-42-36.png",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-42-28.png",
     "02 IT Projectflow/04 Informatie_Architectuur/ER_Diagram (Chens Notatie)-2025-11-28-13-38-28.png",
     "06 Map Bram/Oud/ER-diagram-2025-11-23-10-14-51.png",
-    "06 Map Bram/Diagrammen/ER-diagram (Chens notatie) Rik.md",
-    "02 IT Projectflow/IT-Projectflow.md",
-    "02 IT Projectflow/01 Strategie/Missie & Visie.md",
     "06 Map Bram/Analyse/Probleemanalyse_Project_Studentenhuisvesting.pdf",
     "README.md",
     "07 infra/Datamodel.md",
@@ -220,7 +222,6 @@
     "02 IT Projectflow/06 Technische_Architectuur",
     "02 IT Projectflow/05 Applicatie_Architectuur",
     "02 IT Projectflow/04 Informatie_Architectuur",
-    "02 IT Projectflow/03 Business_Architectuur",
     "ARchimate.md",
     "02 IT Projectflow.md",
     "Chen notatie.md",
