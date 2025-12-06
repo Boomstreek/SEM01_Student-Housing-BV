@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eigen_website_1._0
+build_property.RootNamespace = eigen_website_1._0
+build_property.ProjectDir = /home/bram/Documents/StudentHousing/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/bram/Documents/StudentHousing
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/bram/Documents/StudentHousing/Pages/Aankondegingen1/Aankondegingen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWFua29uZGVnaW5nZW4xL0FhbmtvbmRlZ2luZ2VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/AanvullendeDiensten/Diensten.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWFudnVsbGVuZGVEaWVuc3Rlbi9EaWVuc3Rlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Afvalwijzer/Afval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWZ2YWx3aWp6ZXIvQWZ2YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/KlachtenFormulier/Klacht.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvS2xhY2h0ZW5Gb3JtdWxpZXIvS2xhY2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Login/Log-in1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4vTG9nLWluMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Overons/Index1.0.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3Zlcm9ucy9JbmRleDEuMC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/OverzichtKosten/Kosten.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3ZlcnppY2h0S29zdGVuL0tvc3Rlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Privacy/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/QuotesList/Quotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUXVvdGVzTGlzdC9RdW90ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Taakverdeling/Verdeling.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFha3ZlcmRlbGluZy9WZXJkZWxpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Takenlijst1/Takenlijst.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFrZW5saWpzdDEvVGFrZW5saWpzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bram/Documents/StudentHousing/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-78d31942zv
